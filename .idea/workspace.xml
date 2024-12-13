@@ -5,40 +5,75 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca39ed83-6c92-40d2-9926-e13f46c2bdfb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12/Luyen_tap_mang_01/bai_1/bai_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12/Luyen_tap_mang_01/bai_1/bai_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12/Luyen_tap_mang_01/bai_2/bai_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12/Luyen_tap_mang_01/bai_3/bai_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12/Luyen_tap_mang_01/bai_4/bai_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12/Luyen_tap_mang_01/bai_5/bai_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12/Luyen_tap_mang_01/bai_6/bai_6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12/Luyen_tap_mang_01/bai_7/bai_7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12/Su_dung_cac_ham_co_san_cua_mang/bai_2/bai_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12/Su_dung_cac_ham_co_san_cua_mang/bai_2/bai_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12/tu_dien/tu_dien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12/tu_dien/tu_dien.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/module1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SS12/Su_dung_cac_ham_co_san_cua_mang/bai_1/bai_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/SS12/Su_dung_cac_ham_co_san_cua_mang/bai_1/bai_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SS12/Su_dung_cac_ham_co_san_cua_mang/bai_1/bai_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/SS12/Su_dung_cac_ham_co_san_cua_mang/bai_1/bai_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss11/bai_tap/Luyen_tap_vong_lap_1/bai_7/bai_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss11/bai_tap/Luyen_tap_vong_lap_1/bai_7/bai_7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss11/bai_tap/Luyen_tap_vong_lap_1/bai_7/bai_7.js" beforeDir="false" afterPath="$PROJECT_DIR$/ss11/bai_tap/Luyen_tap_vong_lap_1/bai_7/bai_7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss4/bai_tap/trang_CV_ca_nhan.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss4/bai_tap/trang_CV_ca_nhan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5/baitap/tao_form_don_gian_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/baitap/tao_form_don_gian_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7/chuyen_doi_tien_te.js" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/chuyen_doi_tien_te.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/chi_so_can_nang.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9/chi_so_can_nang.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ss11/bai_tap/Luyen_tap_vong_lap_1/bai_5/bai_5.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2oO8gamTcl5IFKb5DLm8e6Skzqg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "disable.download.node.interpreter.editor.notification": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.bai_6.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.tao_form_don_gian.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;disable.download.node.interpreter.editor.notification&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -55,6 +90,37 @@
       <option name="presentableId" value="Default" />
       <updated>1730729375542</updated>
       <workItem from="1730729376488" duration="847000" />
+      <workItem from="1730972685877" duration="2277000" />
+      <workItem from="1730975225756" duration="1655000" />
+      <workItem from="1731045325729" duration="111000" />
+      <workItem from="1731072232996" duration="3337000" />
+      <workItem from="1731117482568" duration="3773000" />
+      <workItem from="1731327082014" duration="1853000" />
+      <workItem from="1731373409376" duration="2901000" />
+      <workItem from="1731384507228" duration="13247000" />
+      <workItem from="1731496778748" duration="7643000" />
+      <workItem from="1731670018395" duration="6727000" />
+      <workItem from="1731735933619" duration="4351000" />
+      <workItem from="1731929566353" duration="6355000" />
+      <workItem from="1732107746574" duration="4216000" />
+      <workItem from="1732261177018" duration="9303000" />
+      <workItem from="1732281790057" duration="3631000" />
+      <workItem from="1732446479467" duration="3348000" />
+      <workItem from="1732533019274" duration="3108000" />
+      <workItem from="1732588444460" duration="2169000" />
+      <workItem from="1732602346366" duration="6227000" />
+      <workItem from="1732669558517" duration="7503000" />
+      <workItem from="1732677780367" duration="1454000" />
+      <workItem from="1732706131741" duration="7778000" />
+      <workItem from="1732879371229" duration="6375000" />
+      <workItem from="1733138820740" duration="8000" />
+      <workItem from="1733138840669" duration="7073000" />
+      <workItem from="1733311558290" duration="5675000" />
+      <workItem from="1733484574949" duration="4572000" />
+      <workItem from="1733553135429" duration="5719000" />
+      <workItem from="1733917180309" duration="731000" />
+      <workItem from="1733918160667" duration="1319000" />
+      <workItem from="1734089990936" duration="3326000" />
     </task>
     <servers />
   </component>
